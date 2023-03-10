@@ -1,4 +1,4 @@
 #Hello world
-print("Hello World")
+println("Hello World")
 
 "Hello World"
